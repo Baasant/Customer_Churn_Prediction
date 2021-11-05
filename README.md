@@ -57,6 +57,8 @@ Here is the highest value for **recall** find in **Random Forest**
 Save the model parameter in a packle file to use the model in FastAPI
 
 **3-Model deployment using FastAPI**
+Enter your data in request body 
+
 ![req_bo](https://user-images.githubusercontent.com/41596266/140563630-deab8383-94d3-4881-864c-03467ce10138.png)
 
 
